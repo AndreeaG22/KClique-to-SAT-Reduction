@@ -1,4 +1,5 @@
 Reducere de la problema K-CLIQUE la SAT
+
 Implementare in fisierul KCliqueToSat.java
 
 Tema 2 implementeaza un algoritm de reducere de la problema K-CLIQUE la SAT. Programul este scris in limbajul Java, de
